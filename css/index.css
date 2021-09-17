@@ -4194,23 +4194,23 @@ h1 a {
   border-radius: 50%;
 }
 
-.d-n {
+.display-n {
   display: none;
 }
 
-.d-b {
+.display-b {
   display: block;
 }
 
-.d-f {
+.display-f {
   display: flex;
 }
 
-.d-i {
+.display-i {
   display: inline;
 }
 
-.d-ib {
+.display-ib {
   display: inline-block;
 }
 
